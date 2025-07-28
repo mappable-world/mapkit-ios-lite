@@ -19,8 +19,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "MappableMobileLite",
-            url: "https://mappableworld.s3.eu-west-3.amazonaws.com/MappableMobile-4.18.0-lite.framework.zip",
-            checksum: "cfc5578cfb59e0add62e690a4afa15bcc98227ef167d662f6b3ffbaa1654041a"
+            url: "https://mappableworld.s3.eu-west-3.amazonaws.com/MappableMobile-4.19.0-lite.framework.zip",
+            checksum: "4cbb20058156bdbf83519a17a42117f14e6a8e125ea68571c705cf8a1614484c"
         ),
         .target(
             name: "MappableMobileLiteResources",
